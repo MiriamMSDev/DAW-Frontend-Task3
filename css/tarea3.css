@@ -1,11 +1,11 @@
-.custom {
+.container {
     height: 100%;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
 }
 
-h1 {
+.title {
     background-image: url("../imgs/barra-cesped.png");
     color: black;
     text-align: center;
